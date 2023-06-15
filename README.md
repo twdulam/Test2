@@ -3,5 +3,5 @@
 ##Chapter 2
 - load libraries
 
-R is nice
+R is nice....
 library(tidyverse)
