@@ -6,7 +6,7 @@ title: |
   | 2022-2023
 author: |
   | Tina
-  | t.wdulam@students.uu.nl
+  | t.wdulam@uu.nl
   | http://www.github.com/yourgithubname
 date: April 2023
 urlcolor: purple
